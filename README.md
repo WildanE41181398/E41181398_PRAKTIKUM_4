@@ -9,7 +9,7 @@
 - [XAMPP](https://www.apachefriends.org/download.html) 7.4.2 atau versi yang lebih baru.
 - [Codeigniter](https://codeigniter.com/en/download) versi 3.1.11 atau the latest Version.
 - [Visual Studio Code](https://code.visualstudio.com/download) versi 1.43.0 atau versi yang lebih baru.
-- [Postman](https://www.postman.com/downloads/)versi 7.20.0.
+- [Postman](https://www.postman.com/downloads/) versi 7.20.0.
 
 ## Preparations (Persiapan)
 1. Menjalankan atau start Webserver anda, di sini saya menggunakan XAMMP
